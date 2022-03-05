@@ -1,0 +1,121 @@
+ a:link {
+        color: black;
+        background-color: transparent;
+        text-decoration: none; }
+
+.heading{
+font-size: 23px;
+width: 100px;
+margin: 0px;
+box-shadow: 10px 10px 5px blue;  
+color: rgb(0, 26, 255);
+}
+.c{
+    box-shadow: 10px 10px 5px rgb(0, 183, 255);     
+}
+body{
+    background-size:cover;   
+    background-position:center;
+   }
+        
+       #wdyc {
+        
+            border-bottom: 1px solid white;
+            padding: 8px;
+        }
+        
+        #home {
+            margin-bottom: 10px;
+        }
+        
+        .modal-content {
+            margin-top: 100px;
+        }
+        
+        .img_modal {
+            display: inline-block;
+        }
+        
+        .p_modal {
+            margin-top: 10px;
+        }
+        
+        .modal-body {
+            text-align: center
+        }
+        
+        #Image{
+         width: 600px;   
+         height: 400px;
+        }
+        
+         .center {
+                display: block;
+                margin-left: 50px;
+                margin-right: 50px;
+                width: 150px;
+                height: 100;
+               
+              }   
+        
+
+        #Div_for_p{
+            padding-left: 80px;    
+        }
+
+        .Samveg{
+         width: 180px;   
+         height: 200px;
+        }
+
+        .samve{
+            width: 180px;   
+            height: 200px;   
+        }
+
+        .samv{
+            width: 180px;   
+            height: 200px;    
+        }
+
+        .engclass {
+            background: #a4ebeee1;
+            padding: 10px;
+            margin-top: 15px;
+            border: 3px solid white;
+            box-shadow: 5px 5px 8px rgb(87, 4, 55)
+          }
+         
+          
+ 
+          .mathclass {
+            background: #dcc2e4;
+            padding: 10px;
+            margin-top: 15px;
+            border: 3px solid white;
+            box-shadow: 5px 5px 7px rgb(236, 118, 7)
+          }
+      
+          .evsclass {
+            background:#f3dc0d;
+            padding: 10px;
+            margin-top: 15px;
+            border: 3px solid white;
+            box-shadow: 5px 5px 7px rgb(255, 106, 7)
+          }
+                                                                                   
+          .CLASSISCLASS{
+           background-image: url("28062.jpg");   
+          }
+          
+
+
+          .footer{
+            position: fixed;  
+            color: black;  
+            background-color: rgb(255, 0, 0);
+            bottom:0;
+            width:100%;
+            line-height: 10px;
+            text-align: center;
+            }
